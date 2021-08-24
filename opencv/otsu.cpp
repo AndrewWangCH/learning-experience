@@ -1,3 +1,5 @@
+//大津法
+//此函数计算得到的阈值预opencv中的一样
 int otsu(const Mat src, Mat &dst)
 {
 	const int grayScale = 256;
